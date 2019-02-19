@@ -1,15 +1,3 @@
-### YBG 为用户提供稳定使用的接口，目前支持账户查询、交易查询、行情、订单等。可以使用程序代替人进行策略下单、交易
-用户apiKey和apiSecret请访问[YBG官网](http://ybg.one/) **API管理**进行获取
-
-### REST行情、交易 API
-[REST API描述](https://github.com/yhjs666/YBG-API-Docs/wiki/API-%E6%8F%8F%E8%BF%B0)
-
-[签名认证](https://github.com/yhjs666/YBG-API-Docs/wiki/%E7%AD%BE%E5%90%8D%E8%AE%A4%E8%AF%81)（请仔细查看！！！）
-
-
-
-[错误码提示](https://github.com/yhjs666/YBG-API-Docs/wiki/%E9%94%99%E8%AF%AF%E7%A0%81%E6%8F%90%E7%A4%BA)
-
 
 ### YBG 为用户提供稳定使用的接口，目前支持账户查询、交易查询、行情、订单等。可以使用程序代替人进行策略下单、交易
 
